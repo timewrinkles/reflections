@@ -1,0 +1,1 @@
+1.  I could access the repository from different machines, say work and home, and also allows others to see and work with the repository
