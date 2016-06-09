@@ -1,0 +1,14 @@
+1.  Using the FC command helps to narrow down
+locations where code has changed from one build to another and therefore the locations where a problem could be introduced.  This saves time and mental work in scrolling and guessing at possible culprits.
+
+2.  You can assess changes as you make them and maintain and record of what has worked and in which combinations.
+
+3.  Manually controlling commits can help to reduce clutter and useless saves.  Automatic might be helpful for especially forgetful people.
+
+4.  Multiple versus independent save systems depend largely on what the files and workspace are generally used for.  Coding tasks often result in the interdependence of multiple files, while word-processing rarely does.
+
+5.  Use git log to bring up a list of commits that have been made, and then use git diff to see specific changes made in a given commit.
+
+6.  With version control you retain the previous versions of your program so that you can return to them if an error is introduced.
+
+7.  Android app layout changes
