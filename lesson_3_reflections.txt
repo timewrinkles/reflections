@@ -1,2 +1,3 @@
 1.  I could access the repository from different machines, say work and home, and also allows others to see and work with the repository
 2.  Perhaps there are changes to a collaborative or other version of a branch that you don't yet want to commit to on your local branch, or vice versa.
+3.  A fork clones a repository only within GitHub itself.  Clone makes a copy of a repository on your local machine.  A branch is a new path in the commit history of a repository, not a copy of the repository itself.  Use forks and clones to collaborate on a project; use branches to organize your own work.
