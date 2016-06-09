@@ -9,3 +9,14 @@ updated in a new commit.  It allows commits to
 3.  Updating the configurations is a pain in 
 the ass that should really be explained 
 better.  Also, fuck you Microsoft.
+
+4.  You could run git diff --staged to verify
+that the changes to be committed form a 
+logical group.
+
+5.  Branches could be helpful for tracking
+different ideas for a program until a decision
+is made on which to keep as final.
+
+6.  By, uh, helping you visualize the branch
+structure.
