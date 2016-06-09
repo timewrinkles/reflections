@@ -1,3 +1,5 @@
 1.  Git bash adds a .git directory to the parent directory.  This lets git know to treat the directory as a repository.
 
 2.  The staging area specifies files to be updated in a new commit.  It allows commits to be more focused.
+
+3.  Updating the configurations is a pain in the ass that should really be explained better.  Also, fuck you Microsoft.
