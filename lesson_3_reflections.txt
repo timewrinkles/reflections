@@ -1,1 +1,2 @@
 1.  I could access the repository from different machines, say work and home, and also allows others to see and work with the repository
+2.  Perhaps there are changes to a collaborative or other version of a branch that you don't yet want to commit to on your local branch, or vice versa.
